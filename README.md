@@ -1,6 +1,3 @@
-Here’s the full `README.md` for your LinkedIn Clone project, ready for you to copy:
-
-```md
 # 💼 LinkedIn Clone UI 🎨
 
 A clean and modern **LinkedIn Clone UI** built entirely using **HTML** and **CSS**. This project showcases the design of LinkedIn's front page, focusing on layout, responsiveness, and styling! 🚀
@@ -29,7 +26,7 @@ This project is a front-end clone of the popular professional networking platfor
 1. Clone the repo:
    ```bash
    git clone https://github.com/MukeshbalaV/Linkedin-Clone.git
-   ```
+
 2. Navigate to the project directory:
    ```bash
    cd Linkedin-Clone
