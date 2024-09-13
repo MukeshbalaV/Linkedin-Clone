@@ -26,28 +26,7 @@ This project is a front-end clone of the popular professional networking platfor
 1. Clone the repo:
    ```bash
    git clone https://github.com/MukeshbalaV/Linkedin-Clone.git
-Navigate to the project directory:
-bash
-Copy code
+2.Navigate to the project directory:
 cd Linkedin-Clone
-Open linkedin.html in your browser to view the LinkedIn clone UI! 🌐
-🖼️ Screenshots
-🖥️ Desktop View	📱 Mobile View
-📂 Project Structure
-bash
-Copy code
-.
-├── icons/         # All icons used in the UI
-├── linkedin.html  # Main HTML file
-├── linkedin.css   # Main CSS file
-├── photos/        # Images and screenshots
-└── README.md      # This file!
-🙌 Contributing
-Feel free to contribute! Submit a pull request or open an issue to discuss changes. 🎉
 
-📄 License
-This project is open-source and available under the MIT License. 📜
-
-🎯 Contact
-Connect with me on LinkedIn: Mukesh Bala V 💬
 
