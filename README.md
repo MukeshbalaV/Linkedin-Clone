@@ -33,12 +33,6 @@ This project is a front-end clone of the popular professional networking platfor
    ```
 3. Open `linkedin.html` in your browser to view the LinkedIn clone UI! 🌐
 
-## 🖼️ Screenshots
-
-| 🖥️ Desktop View | 📱 Mobile View |
-| :-------------: | :------------: |
-| ![Desktop](./photos/desktop-view.png) | ![Mobile](./photos/mobile-view.png) |
-
 ## 📂 Project Structure
 
 ```bash
@@ -60,6 +54,6 @@ This project is open-source and available under the **MIT License**. 📜
 
 ## 🎯 Contact
 
-Connect with me on **LinkedIn**: [Mukesh Bala V](www.linkedin.com/in/mukeshbala24) 💬
+Connect with me on **LinkedIn**: [Mukesh Bala V](https://www.linkedin.com/in/mukeshbala24/) 💬
 
 ---
